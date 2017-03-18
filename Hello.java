@@ -2,6 +2,7 @@ import java.io.File;
 
 class Hello
 {
+    // テストクラスやで
     public static void main(String args[])
     {
         System.out.println("hello");
