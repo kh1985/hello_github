@@ -4,6 +4,7 @@ class Hello
 {
     // テストクラスやで
     // 2回目やで
+    // githubに変更分コミットやで
     public static void main(String args[])
     {
         System.out.println("hello");
