@@ -5,6 +5,7 @@ class Hello
     // テストクラスやで
     // 2回目やで
     // githubに変更分コミットやで
+    // ラララ分岐
     public static void main(String args[])
     {
         System.out.println("hello");
